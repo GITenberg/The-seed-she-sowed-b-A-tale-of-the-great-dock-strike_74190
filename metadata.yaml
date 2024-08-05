@@ -1,0 +1,30 @@
+_repo: The-seed-she-sowed-b-A-tale-of-the-great-dock-strike_74190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Emma
+    aliases:
+    - Dixon, Emma
+    - Boultwood, Emma
+    birthdate: 1838
+    deathdate: 1909
+    gutenberg_agent_id: '8498'
+    url: http://www.gutenberg.org/2009/agents/8498
+    wikipedia: https://en.wikipedia.org/wiki/Emma_Leslie
+description: ''
+gutenberg_issued: '2024-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74190'
+language: en
+pgterms:marc905: 20240720135029leslie
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bBlackie and Son Limited, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The seed she sowed. : $b A tale of the great dock strike.'
+url: http://www.gutenberg.org/ebooks/74190
